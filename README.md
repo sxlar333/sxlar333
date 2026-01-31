@@ -22,3 +22,6 @@ Focused on **low-level internals, reversing, and exploit dev (ethical)**
 - Linux internals
 - CTF-style exploitation
 - Python Payloads
+
+## 🐍 contributions
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
