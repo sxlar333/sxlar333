@@ -7,7 +7,7 @@ Focused on **low-level internals, reversing, and exploit dev (ethical)**
 ---
 
 ## 🧰 toolchain
-![Skills](https://skillicons.dev/icons?i=python,c,bash,linux, Batch)
+![Skills](https://skillicons.dev/icons?i=python,c,bash,linux,batch)
 
 ---
 
