@@ -16,6 +16,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: sxlar333
+          theme: dark
           outputs: |
             dist/github-contribution-grid-snake.svg
       - name: Push
