@@ -24,4 +24,5 @@ Focused on **low-level internals, reversing, and exploit dev (ethical)**
 - Python Payloads
 
 ## 🐍 contributions
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sxlar333/sxlar333/blob/output/dist/github-contribution-grid-snake.svg)
+
