@@ -17,6 +17,7 @@ jobs:
         with:
           github_user_name: sxlar333
           theme: dark
+          color: 00FF00
           outputs: |
             dist/github-contribution-grid-snake.svg
       - name: Push
