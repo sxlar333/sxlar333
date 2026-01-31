@@ -1,6 +1,6 @@
 ## 👋 whoami
 
-Teen hacker-in-training  
+Teen exploit dev-in-training  
 Learning **Python, C, and Bash**  
 Focused on **low-level internals, reversing, and exploit dev (ethical)**
 
