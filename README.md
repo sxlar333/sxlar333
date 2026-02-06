@@ -5,7 +5,7 @@ Learning **Python, C, and Bash**
 
 ---
 
-## active_project
+## MAIN PROJECT IM WORKING ON!
 [![Main Project](https://img.shields.io/badge/🚀%20Main%20Project-Echo_Vesx-181717?style=for-the-badge&logo=github)](https://github.com/sxlar333/Echo-Vesx)
 
 
