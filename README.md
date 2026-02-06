@@ -5,6 +5,10 @@ Learning **Python, C, and Bash**
 
 ---
 
+## active_project
+[![Main Project](https://img.shields.io/badge/🚀%20Main%20Project-Echo_Vesx-181717?style=for-the-badge&logo=github)](https://github.com/sxlar333/Echo-Vesx)
+
+
 ## 🧰 toolchain
 ![Skills](https://skillicons.dev/icons?i=python,c,bash,linux,batch)
 
