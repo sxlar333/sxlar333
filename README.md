@@ -1,8 +1,7 @@
 ## 👋 whoami
 
-Teen exploit dev-in-training  
+Teen exploit dev 
 Learning **Python, C, and Bash**  
-Focused on **low-level internals, reversing, and exploit dev (ethical)**
 
 ---
 
@@ -18,10 +17,8 @@ Focused on **low-level internals, reversing, and exploit dev (ethical)**
 ---
 
 ## 🧠 current focus
-- Memory corruption
-- Linux internals
-- CTF-style exploitation
-- Python Payloads
+- Learning more python and c
+- hopefully creating a basic linux distro
 
 ## 🐍 contributions
 ![Snake animation](https://github.com/sxlar333/sxlar333/blob/output/github-contribution-grid-snake.svg)
