@@ -1,6 +1,6 @@
 ## 👋 whoami
 
-Teen exploit dev 
+Teen dev 
 Learning **Python, C, and Bash**  
 
 ---
