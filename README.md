@@ -2,8 +2,6 @@
 
 im a hobby programmer (not that good)
 ---
-trying to learn C
-i use linux as my main and only os
 
 ## skills:
 - python 
