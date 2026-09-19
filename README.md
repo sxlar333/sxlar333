@@ -2,7 +2,7 @@
 
 im a hobby programmer (not that good)
 ---
-i mainly write python although im trying to learn new languages
+trying to learn C
 i use linux as my main and only os
 
 ## skills:
@@ -11,6 +11,6 @@ i use linux as my main and only os
 - vim 
 
 ## goals:
-- learn zig 
+- learn C
 - build more projects
 - contribute to open source more 
